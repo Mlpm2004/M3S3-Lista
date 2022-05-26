@@ -11,7 +11,17 @@ namespace ListaExercicios.ConsoleApp.Entidades
         public int Add(string numbers)
         {
             //converte string em lista
-            var numeros = numbers.Split(',').Select(Int32.Parse).ToList();
+            var numeros = new List<int>();
+            try
+            {
+                numeros = numbers.Split(',').Select(Int32.Parse).ToList();
+                
+            }catch (FormatException)
+            {
+                //Devemos retornar uma FormatException caso exista uma sequência sem números. Ex: 1,2,,3,4. Retornndo a mensagem "Sequência inválida".
+                throw new FormatException("Sequência inválida");
+            }
+           
             var soma = 0;
             var erroNumeroNegativo = "Números negativos não permitidos : ";
 
@@ -26,12 +36,7 @@ namespace ListaExercicios.ConsoleApp.Entidades
             if (erroNumeroNegativo!= "Números negativos não permitidos : ")
                 throw new ArgumentException(erroNumeroNegativo);
 
-            //Devemos retornar uma FormatException caso exista uma sequência sem números. Ex: 1,2,,3,4. Retornndo a mensagem "Sequência inválida".
-            foreach (var item in numeros)
-                if (item == null)
-                    throw new FormatException("Sequência inválida");
-
-            // A sequência não deve exceder 10 números. Caso isso aconteça deve ser retornada uma ArgumentException com a mensagem "Sequência com tamanho inválido"
+             // A sequência não deve exceder 10 números. Caso isso aconteça deve ser retornada uma ArgumentException com a mensagem "Sequência com tamanho inválido"
             if (numeros.Count > 10)
                 throw new ArgumentException("Sequência com tamanho inválido");
 
