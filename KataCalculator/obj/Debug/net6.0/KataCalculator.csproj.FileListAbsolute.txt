@@ -1,0 +1,12 @@
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\bin\Debug\net6.0\KataCalculator.deps.json
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\bin\Debug\net6.0\KataCalculator.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\bin\Debug\net6.0\KataCalculator.pdb
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.csproj.AssemblyReference.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.AssemblyInfoInputs.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.AssemblyInfo.cs
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.csproj.CoreCompileInputs.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\refint\KataCalculator.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\KataCalculator.pdb
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\KataCalculator\obj\Debug\net6.0\ref\KataCalculator.dll

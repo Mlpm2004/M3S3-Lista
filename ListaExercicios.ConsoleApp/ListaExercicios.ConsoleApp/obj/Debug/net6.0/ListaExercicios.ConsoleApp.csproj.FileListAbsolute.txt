@@ -1,0 +1,15 @@
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\bin\Debug\net6.0\ListaExercicios.ConsoleApp.exe
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\bin\Debug\net6.0\ListaExercicios.ConsoleApp.deps.json
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\bin\Debug\net6.0\ListaExercicios.ConsoleApp.runtimeconfig.json
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\bin\Debug\net6.0\ListaExercicios.ConsoleApp.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\bin\Debug\net6.0\ListaExercicios.ConsoleApp.pdb
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.csproj.AssemblyReference.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.AssemblyInfoInputs.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.AssemblyInfo.cs
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\refint\ListaExercicios.ConsoleApp.dll
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.pdb
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ListaExercicios.ConsoleApp.genruntimeconfig.cache
+C:\wamp\www\DEVinHouse\M3S3\ListaExercicios\ListaExercicios.ConsoleApp\ListaExercicios.ConsoleApp\obj\Debug\net6.0\ref\ListaExercicios.ConsoleApp.dll
